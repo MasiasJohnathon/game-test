@@ -1,0 +1,25 @@
+/*
+font-family: 'MedievalSharp', cursive;
+font-family: 'IM Fell English SC', serif;
+font-family: 'IM Fell English', serif;
+*/
+
+body {
+  background-image: url("images/main-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: brown;
+}
+
+div {
+  background-image: url("images/intro-image1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+}
+
+div h1 {
+  font-family: 'IM Fell English SC', serif;
+}
